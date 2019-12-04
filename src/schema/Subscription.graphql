@@ -1,0 +1,7 @@
+
+type Subscription {
+    id: String!
+    student: Student
+    class: Class
+    createdAt: String
+}

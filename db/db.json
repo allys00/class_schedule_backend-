@@ -14,7 +14,9 @@
             "complement": "ap 200",
             "postalCode": "6074222",
             "cpf": "08829939322",
-            "socialNetworks": ["https://www.facebook.com/andre.allys"]
+            "socialNetworks": [
+                "https://www.facebook.com/andre.allys"
+            ]
         },
         {
             "id": "2",
@@ -30,7 +32,40 @@
             "complement": "ap 200",
             "postalCode": "6074222",
             "cpf": "08829939322",
-            "socialNetworks": ["https://www.facebook.com/julia.vieira.14661"]
+            "socialNetworks": [
+                "https://www.facebook.com/julia.vieira.14661"
+            ]
+        }
+    ],
+    "teachers": [
+        {
+            "id": "3",
+            "name": "Mr.been",
+            "email": "mr.been@gmail.com",
+            "phoneNumber": "85997730722",
+            "genre": "male",
+            "birthday": "1980-02-22T01:54:49.432Z"
+        }
+    ],
+    "subscriptions": [
+        {
+            "id": "5",
+            "student": "2",
+            "class": "4",
+            "createdAt": "2019-12-25T01:54:49.432Z"
+        }
+    ],
+    "classes": [
+        {
+            "id": "4",
+            "title": "Poder da ação",
+            "description": "Palestra sobre o best seller",
+            "startDate": "2019-12-25T01:54:49.432Z",
+            "finishDate": "2019-12-28T01:54:49.432Z",
+            "clientsNumber": 2,
+            "sessionsNumber": 2,
+            "address": "Rua Figueredo, nº 1992, Fortaleza-CE",
+            "teacher": "3"
         }
     ]
 }

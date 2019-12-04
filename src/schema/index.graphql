@@ -1,3 +1,7 @@
 #import Teacher from 'Teacher.graphql'
 #import Student from 'Student.graphql'
+#import Subscription from 'Subscription.graphql'
+#import Class from 'Class.graphql'
+
+
 #import Query from 'Query.graphql'

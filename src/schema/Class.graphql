@@ -1,0 +1,11 @@
+
+type Class {
+    id: String!
+    title: String!
+    description: String!
+    startDate: String!
+    finishDate: String!
+    clientsNumber: Int
+    sessionsNumber: Int
+    address: String
+}
