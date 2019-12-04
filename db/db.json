@@ -1,0 +1,36 @@
+{
+    "students": [
+        {
+            "id": "1",
+            "name": "André Alys",
+            "email": "andreallys@gmail.com",
+            "phoneNumber": "85997730751",
+            "genre": "male",
+            "birthday": "1996-12-06T01:54:49.432Z",
+            "country": "Brasil",
+            "state": "Ceará",
+            "city": "Fortaleza",
+            "street": "Rua Frank 1005",
+            "complement": "ap 200",
+            "postalCode": "6074222",
+            "cpf": "08829939322",
+            "socialNetworks": ["https://www.facebook.com/andre.allys"]
+        },
+        {
+            "id": "2",
+            "name": "Julia",
+            "email": "juliahelle@gmail.com",
+            "phoneNumber": "85997730751",
+            "genre": "female",
+            "birthday": "1999-03-28T01:54:49.432Z",
+            "country": "Brasil",
+            "state": "Ceará",
+            "city": "Fortaleza",
+            "street": "Rua Frank 1005",
+            "complement": "ap 200",
+            "postalCode": "6074222",
+            "cpf": "08829939322",
+            "socialNetworks": ["https://www.facebook.com/julia.vieira.14661"]
+        }
+    ]
+}

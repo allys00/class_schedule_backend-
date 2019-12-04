@@ -1,0 +1,5 @@
+# Pontos de entrada da sua API!
+type Query {
+    teachers: [Teacher],
+    students: [Student]
+}

@@ -1,0 +1,18 @@
+
+type Student {
+    id: Int
+    name: String!
+    email: String!
+    phoneNumber: String
+    genre: String
+    birthday: String
+    status: String
+    country: String
+    state: String
+    city: String
+    street: String
+    complement: String
+    postalCode: String
+    cpf: String
+    socialNetworks: [String]
+}

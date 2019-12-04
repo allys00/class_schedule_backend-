@@ -1,0 +1,9 @@
+
+type Teacher {
+    id: Int
+    name: String!
+    email: String!
+    phoneNumber: String
+    genre: String
+    birthday: String
+}
